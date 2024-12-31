@@ -1,2 +1,2 @@
-# A personal site, encapsulating my portfolio, CV, projects and hobbies
-Built from scratch
+# A personal site, built from scratch.
+Concisting of my CV, projects and hobbies.
