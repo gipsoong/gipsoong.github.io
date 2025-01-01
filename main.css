@@ -13,6 +13,5 @@ html, body {
 }
 
 .section {
-    /* align-self: center; */
-    align-items: center;
+    align-self: center;
 }
