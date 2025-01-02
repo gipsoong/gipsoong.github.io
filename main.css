@@ -22,3 +22,7 @@ html, body {
 .section {
     align-self: center;
 }
+
+footer ul {
+    list-style-type: none;
+}
