@@ -8,7 +8,7 @@
     font-family: "Poppins";
  }
 
-html, body {
+html, body , #main{
     width: 100%;
     margin: 0 auto;
 }
