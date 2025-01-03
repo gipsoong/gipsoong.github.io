@@ -25,6 +25,7 @@ html, body {
 
 footer {
     display: flex;
+    width: 100%
 }
 
 footer li {
