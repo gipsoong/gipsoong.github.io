@@ -25,6 +25,7 @@ html, body , #main{
 
 footer {
     display: flex;
+    justify-content: center;
     width: 100%
 }
 
@@ -34,6 +35,5 @@ footer li {
 }
 
 li {
-    width: 100%;
     margin: 0 0;
 }
