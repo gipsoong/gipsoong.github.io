@@ -13,16 +13,16 @@ body {
     margin: 0 auto;
 }
 
-.nav, main {
+#nav, #main {
     height: 100vh;
     padding: 50px;
 }
 
-.nav {
+#nav {
     flex: 1;
 }
 
-main {
+#main {
     flex: 4;
     background-color: lightgrey;
 }
