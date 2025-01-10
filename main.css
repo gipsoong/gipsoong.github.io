@@ -8,16 +8,12 @@
     font-family: "Poppins";
  }
 
-html, body {
-    margin: 0 auto;
-}
-
 body {
     display: flex;
 }
 
 .nav, main {
-    height: 100vh;
+    height: 100%;
     padding: 50px;
 }
 
