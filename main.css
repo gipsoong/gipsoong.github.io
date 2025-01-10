@@ -17,6 +17,10 @@ body {
     display: flex;
 }
 
+.nav, main {
+    height: 100%;
+}
+
 .nav {
     flex: 1;
 }
