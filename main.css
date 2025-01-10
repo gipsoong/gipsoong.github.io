@@ -19,6 +19,7 @@ body {
 
 .nav, main {
     height: 100%;
+    padding: 50px;
 }
 
 .nav {
