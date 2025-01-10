@@ -23,4 +23,5 @@ body {
 
 main {
     flex: 4;
+    background-color: lightgrey;
 }
