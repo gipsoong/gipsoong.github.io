@@ -19,10 +19,6 @@ html, body , #main{
     align-items: center;
 }
 
-.section {
-    align-self: center;
-}
-
 footer {
     display: flex;
     justify-content: center; 
