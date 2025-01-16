@@ -8,11 +8,9 @@
     list-style: none;
 }
 
- h1 {
-    font-family: "Poppins";
- }
 
- html {
+
+html {
     height: 100%;
  }
 
@@ -22,32 +20,12 @@ body {
     height: 100vh;
 }
 
-#nav, #main {
-    height: 100vh
-}
-
-#nav {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    justify-content: space-between;
-    position: fixed;
-    padding: 50px;
-    margin: auto;
-}
-
-#main {
-    flex: 5;
-    background-color: lightgrey;
-    padding: 100px;
-}
-
-footer {
-    text-align: center;
-}
-
 main {
     overflow-y: auto;
+}
+
+h1 {
+    font-family: "Poppins";
 }
 
 .wrapper {
@@ -65,6 +43,11 @@ main {
 
 .socials {
     text-align: center;
+}
+
+.socials ul {
+    display: flex;
+    justify-content: space-evenly;
 }
 
 .wrapper-inner {
