@@ -13,13 +13,8 @@ body {
     display: flex;
 }
 
-#nav {
-    position: sticky;
-    padding: 50px;
-}
-
-#main {
-    padding: 100px;
+#nav, #main {
+    height: 100%;
 }
 
 #nav {
@@ -27,9 +22,12 @@ body {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
+    position: sticky;
+    padding: 50px;
 }
 
 #main {
     flex: 5;
     background-color: lightgrey;
+    padding: 100px;
 }
