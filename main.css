@@ -14,12 +14,11 @@ body {
 }
 
 #nav {
-    height: 100vh;
+    position: sticky;
     padding: 50px;
 }
 
 #main {
-    height: 100vh;
     padding: 100px;
 }
 
