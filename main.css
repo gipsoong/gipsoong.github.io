@@ -31,14 +31,19 @@ h1 {
 .wrapper {
     display: flex;
     height: 100%;
+    width: 100%;
 }
 
 .navbar {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
-    padding: 50px;
+    flex: 1;
     background-color: #f8f8f8;
+}
+
+nav {
+    padding: 50px;
 }
 
 .socials {
@@ -52,5 +57,10 @@ h1 {
 
 .wrapper-inner {
     padding: 100px;
-    flex: 5;
+    width: 100%;
+}
+
+main {
+    width: 100%;
+    flex: 7;
 }
