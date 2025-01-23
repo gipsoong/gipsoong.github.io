@@ -40,7 +40,7 @@ h1 {
     height: 100%;
 }
 
-nav {
+.navbar-inner {
     display: flex;
     flex-direction: column;
     justify-content: space-between;
