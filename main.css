@@ -69,3 +69,8 @@ main {
     width: 100%;
     flex: 7;
 }
+
+nav {
+    display: flex;
+    flex-direction: column;
+}
