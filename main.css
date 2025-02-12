@@ -77,4 +77,6 @@ nav {
 
 button {
     padding: 5px 10px;
+    background-color: darkslategrey;
+    color: white;
 }
