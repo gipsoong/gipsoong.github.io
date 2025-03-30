@@ -94,3 +94,7 @@ button {
     display: flex;
     justify-content: space-between;
 }
+
+h2 {
+    margin-bottom: 20px;
+}
