@@ -102,3 +102,15 @@ button {
 h2 {
     margin-bottom: 20px;
 }
+
+/* Profile Styling */
+
+.profile {
+    margin-bottom: 50px;
+}
+
+.pfp {
+    height: 150px;
+    width: 150px;
+    background-color: #f0f0f0;
+}
