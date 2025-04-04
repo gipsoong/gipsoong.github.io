@@ -118,3 +118,7 @@ h2 {
 a {
     color: #242424;
 }
+
+a:hover {
+    color:lightgray;
+}
