@@ -126,3 +126,8 @@ a:hover {
 button:hover {
     color: lightskyblue;
 }
+
+button {
+    display: flex;
+    justify-content: space-around;
+}
