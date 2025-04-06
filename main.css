@@ -120,14 +120,22 @@ a {
 }
 
 a:hover {
-    color:lightgray;
+    color: #ed1b22
 }
 
-button:hover {
-    color: lightskyblue;
+button:hover i {
+    color: #ed1b22;
 }
 
 button {
     display: flex;
     justify-content: space-around;
+}
+
+.grow {
+    transition: all .2s ease-in-out;
+}
+
+.grow:hover {
+    transform: scale(1.1);
 }
