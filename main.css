@@ -120,11 +120,11 @@ a {
 }
 
 a:hover {
-    color: #ed1b22
+    color: #66FFF7;
 }
 
 button:hover i {
-    color: #ed1b22;
+    color: #66FFF7;
 }
 
 button {
